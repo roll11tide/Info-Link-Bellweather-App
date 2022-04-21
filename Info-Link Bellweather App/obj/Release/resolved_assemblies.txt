@@ -1,0 +1,5 @@
+C:\Users\Jesse\Dropbox\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Release\android\assets\Info-Link Bellweather App.dll
+C:\Users\Jesse\Dropbox\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Jesse\Dropbox\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Release\android\assets\mscorlib.dll
+C:\Users\Jesse\Dropbox\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Release\android\assets\System.Core.dll
+C:\Users\Jesse\Dropbox\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Release\android\assets\System.dll

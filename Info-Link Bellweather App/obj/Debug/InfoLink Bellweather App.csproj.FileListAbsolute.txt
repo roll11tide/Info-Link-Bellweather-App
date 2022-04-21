@@ -1,0 +1,14 @@
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\bin\Debug\Info-Link Bellweather App.dll
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\bin\Debug\Info-Link Bellweather App.pdb
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\bin\Debug\Info_Link_Bellweather_App.Info_Link_Bellweather_App.apk
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\bin\Debug\Info_Link_Bellweather_App.Info_Link_Bellweather_App-Signed.apk
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\Info-Link Bellweather App.dll
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\Info-Link Bellweather App.pdb
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\android\bin\Info_Link_Bellweather_App.Info_Link_Bellweather_App.apk
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\res\layout\main.xml
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\res\values\strings.xml
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\res\drawable\icon.png
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\res\drawable\chart.png
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\res\drawable\info-link.png
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\R.cs.flag
+D:\Documents\Visual Studio 2015\Projects\Info-Link Bellweather App\Info-Link Bellweather App\obj\Debug\uploadflags.txt
